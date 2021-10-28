@@ -7,4 +7,4 @@ os.system('clear')
 ls = ["buckley", "sebastian", "chi chi"]
 
 for pet in ls:
-    print("my pet is {}".format(pet))
+    print(f"my pet is {pet}")
